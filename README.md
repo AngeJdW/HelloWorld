@@ -1,2 +1,3 @@
-Hello world in java
-Using IntelliJ, GitHub and Java. 
+# Hello world in java
+
+## Using IntelliJ, GitHub and Java. 
